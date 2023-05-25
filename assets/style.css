@@ -42,6 +42,8 @@ body {
 	padding-inline: 100px;
 	padding-block: 100px;
 	position: relative;
+	width: 100%;
+	border: 1px solid green;
 }
 .picture.left::before {
 	content: ' ';
