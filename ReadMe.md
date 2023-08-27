@@ -1,4 +1,5 @@
 # Débuggez et optimisez un site de photographe
+Exercice réalisé dans le cadre de la formation ["Web Développeur"](https://openclassrooms.com/fr/paths/717-developpeur-web#path-tabs) proposé par OpenClassRooms en mai 2023.
 
 ## Nina Carducci - Photographe
 
