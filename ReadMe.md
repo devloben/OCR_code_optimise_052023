@@ -5,7 +5,7 @@ Exercice réalisé dans le cadre de la formation ["Web Développeur"](https://op
 
 ## Visualisation - Demo
 
-[Visualisez le site Nina Carducci - Photographe](https://devloben.github.io/Dandonneau_Benoit_1_code_optimise_052023/)
+[Visualisez le site Nina Carducci - Photographe](https://devloben.github.io/OCR_code_optimise_052023/)
 
 ## Présentation de l'optimisation
 
