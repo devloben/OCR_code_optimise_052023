@@ -16,4 +16,4 @@ Exercice réalisé dans le cadre de la formation ["Web Développeur"](https://op
 [Lien vers le rapport d'intervention](https://drive.google.com/file/d/15Q_ZXmB--g6i4Ygseph8fQv4kfMJdEaF/view?usp=sharing)
 
 
-![Copie écran de la page d'accueil du site BOOKI](https://devloben.github.io/Dandonneau_Benoit_1_code_optimise_052023/assets/images/copie_ecran_nina_carducci_photographe.png)
+![Copie écran de la page d'accueil du site BOOKI](https://github.com/devloben/OCR_code_optimise_052023/blob/main/assets/images/copie_ecran_nina_carducci_photographe.png)
